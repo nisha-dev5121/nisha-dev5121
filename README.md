@@ -67,7 +67,7 @@
   <a href="https://github.com/nisha-dev5121">
     <img src="https://img.shields.io/badge/GitHub-nisha--dev5121-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:nisha.dev5121@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=nisha.dev5121@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
