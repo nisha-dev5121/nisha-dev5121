@@ -61,8 +61,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nisha-dev5121&label=Profile+Views&color=6C63FF&style=flat" alt="profile views"/>
-</p>
+
 
 <p align="center"><em>"The best way to predict the future is to build it." — Alan Kay</em></p>
