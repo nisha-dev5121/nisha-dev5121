@@ -30,11 +30,6 @@
 
 > ✨ Actively learning: React • Machine Learning with Python • Data Structures & Algorithms
 
-  <div style="display: flex; align-items: center; gap: 12px; padding: 16px 20px; background: rgba(34, 197, 94, 0.1); border-left: 3px solid #22c55e; border-radius: 8px; font-size: 14px; color: #86efac;">
-    <div style="width: 8px; height: 8px; border-radius: 50%; background: #22c55e; box-shadow: 0 0 8px #22c55e;"></div>
-    <span><strong>Actively learning:</strong> React • Machine Learning with Python • Data Structures & Algorithms</span>
-  </div>
-</div>
 
 ---
 
