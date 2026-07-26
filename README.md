@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Nisha 👋</h1>
 
 <p align="center">
-  <em>Aspiring AI & ML Engineer · BCA Student (Incoming) · Builder in Progress</em>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Passionate+about+AI+%26+Machine+Learning;Exploring+Web+%26+App+Development;Always+learning%2C+always+building." alt="Typing SVG" />
 </p>
 
