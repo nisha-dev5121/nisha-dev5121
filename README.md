@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Incoming **BCA (AI & ML)** student at **Chandigarh Group of Colleges (CGC)** — starting July 2026
+- 🎓 **BTech (AI & ML)** student at **Chandigarh Group of Colleges (CGC)**
 - 🤖 Deeply interested in **Artificial Intelligence**, **Machine Learning**, and how they shape the future
 - 🌐 Exploring **Web Development** and **App Development** on the side
 - 📍 Based in **Haryana, India**
