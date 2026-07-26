@@ -10,9 +10,7 @@
 
 - 🎓 **BTech (AI & ML)** student at **Chandigarh Group of Colleges (CGC)**
 - 🤖 Deeply interested in **Artificial Intelligence**, **Machine Learning**, and how they shape the future
-- 🌐 Exploring **Web Development** and **App Development** on the side
 - 📍 Based in **Haryana, India**
-- 💡 Currently in pre-college mode — building a strong foundation and personal projects before day one
 - 🚀 Goal: Turn ideas into intelligent, real-world applications
 
 ---
@@ -24,8 +22,6 @@
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-> ✨ Actively learning: React • Machine Learning with Python • Data Structures & Algorithms
-
 
 ---
 
@@ -34,7 +30,6 @@
 ```text
 🔬  Understanding the foundations of AI & Machine Learning
 💻  Building small web and app projects to sharpen dev skills
-📚  Reading, practicing, and preparing for college-level CS
 🧠  Experimenting with AI tools and prompt engineering
 ```
 
